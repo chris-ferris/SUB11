@@ -1,0 +1,1 @@
+I developed this framework in Swift to conveniently provide basic elements common to all apps, and import this in my apps.
